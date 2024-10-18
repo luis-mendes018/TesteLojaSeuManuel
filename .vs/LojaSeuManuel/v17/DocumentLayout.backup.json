@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\LojaSeuManuel\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{75A17D53-BCCF-4972-AB77-72CC64AD1D5D}|UsuariosAPI\\UsuariosAPI.csproj|d:\\lojaseumanuel\\usuariosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75A17D53-BCCF-4972-AB77-72CC64AD1D5D}|UsuariosAPI\\UsuariosAPI.csproj|solutionrelative:usuariosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A17D53-BCCF-4972-AB77-72CC64AD1D5D}|UsuariosAPI\\UsuariosAPI.csproj|d:\\lojaseumanuel\\usuariosapi\\usuariosapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{75A17D53-BCCF-4972-AB77-72CC64AD1D5D}|UsuariosAPI\\UsuariosAPI.csproj|solutionrelative:usuariosapi\\usuariosapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9A66360D-F715-42EA-9222-B600BF65D007}|ProdutosAPI\\ProdutosAPI.csproj|d:\\lojaseumanuel\\produtosapi\\admin\\adminpedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A66360D-F715-42EA-9222-B600BF65D007}|ProdutosAPI\\ProdutosAPI.csproj|solutionrelative:produtosapi\\admin\\adminpedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -90,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -122,7 +130,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\LojaSeuManuel\\UsuariosAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "UsuariosAPI\\appsettings.json",
+              "ToolTip": "D:\\LojaSeuManuel\\UsuariosAPI\\appsettings.json",
+              "RelativeToolTip": "UsuariosAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T23:37:46.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuariosAPI.csproj",
+              "DocumentMoniker": "D:\\LojaSeuManuel\\UsuariosAPI\\UsuariosAPI.csproj",
+              "RelativeDocumentMoniker": "UsuariosAPI\\UsuariosAPI.csproj",
+              "ToolTip": "D:\\LojaSeuManuel\\UsuariosAPI\\UsuariosAPI.csproj",
+              "RelativeToolTip": "UsuariosAPI\\UsuariosAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-17T23:34:11.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "20241017224052_Adicao da coluna caixas na tebela pedido.cs",
               "DocumentMoniker": "D:\\LojaSeuManuel\\ProdutosAPI\\Migrations\\20241017224052_Adicao da coluna caixas na tebela pedido.cs",
               "RelativeDocumentMoniker": "ProdutosAPI\\Migrations\\20241017224052_Adicao da coluna caixas na tebela pedido.cs",
@@ -130,12 +164,11 @@
               "RelativeToolTip": "ProdutosAPI\\Migrations\\20241017224052_Adicao da coluna caixas na tebela pedido.cs",
               "ViewState": "AgIAADYAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T22:40:53.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T22:40:53.845Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "PedidoDetalhe.cs",
               "DocumentMoniker": "D:\\LojaSeuManuel\\ProdutosAPI\\Models\\PedidoDetalhe.cs",
               "RelativeDocumentMoniker": "ProdutosAPI\\Models\\PedidoDetalhe.cs",
@@ -143,12 +176,11 @@
               "RelativeToolTip": "ProdutosAPI\\Models\\PedidoDetalhe.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAIwA8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T22:35:51.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T22:35:51.825Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Caixa.cs",
               "DocumentMoniker": "D:\\LojaSeuManuel\\ProdutosAPI\\Models\\Caixa.cs",
               "RelativeDocumentMoniker": "ProdutosAPI\\Models\\Caixa.cs",
@@ -156,12 +188,11 @@
               "RelativeToolTip": "ProdutosAPI\\Models\\Caixa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T22:32:44.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T22:32:44.023Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "PedidoDTO.cs",
               "DocumentMoniker": "D:\\LojaSeuManuel\\ProdutosAPI\\DTOs\\PedidosDTO\\PedidoDTO.cs",
               "RelativeDocumentMoniker": "ProdutosAPI\\DTOs\\PedidosDTO\\PedidoDTO.cs",
@@ -169,12 +200,11 @@
               "RelativeToolTip": "ProdutosAPI\\DTOs\\PedidosDTO\\PedidoDTO.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T22:22:21.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T22:22:21.995Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "ProdutoRepository.cs",
               "DocumentMoniker": "D:\\LojaSeuManuel\\ProdutosAPI\\Repositories\\ProdutoRepository.cs",
               "RelativeDocumentMoniker": "ProdutosAPI\\Repositories\\ProdutoRepository.cs",
@@ -182,12 +212,11 @@
               "RelativeToolTip": "ProdutosAPI\\Repositories\\ProdutoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T22:09:36.593Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T22:09:36.593Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "CarrinhoCompraItem.cs",
               "DocumentMoniker": "D:\\LojaSeuManuel\\ProdutosAPI\\Models\\CarrinhoCompraItem.cs",
               "RelativeDocumentMoniker": "ProdutosAPI\\Models\\CarrinhoCompraItem.cs",
@@ -195,12 +224,11 @@
               "RelativeToolTip": "ProdutosAPI\\Models\\CarrinhoCompraItem.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAIwAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T21:17:33.222Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T21:17:33.222Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "CarrinhoCompraController.cs",
               "DocumentMoniker": "D:\\LojaSeuManuel\\ProdutosAPI\\Controllers\\CarrinhoCompraController.cs",
               "RelativeDocumentMoniker": "ProdutosAPI\\Controllers\\CarrinhoCompraController.cs",
@@ -208,12 +236,11 @@
               "RelativeToolTip": "ProdutosAPI\\Controllers\\CarrinhoCompraController.cs",
               "ViewState": "AgIAACIAAAAAAAAAAADwvzAAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T20:55:02.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T20:55:02.306Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "CarrinhoCompra.cs",
               "DocumentMoniker": "D:\\LojaSeuManuel\\ProdutosAPI\\Models\\CarrinhoCompra.cs",
               "RelativeDocumentMoniker": "ProdutosAPI\\Models\\CarrinhoCompra.cs",
@@ -221,12 +248,11 @@
               "RelativeToolTip": "ProdutosAPI\\Models\\CarrinhoCompra.cs",
               "ViewState": "AgIAAFAAAAAAAAAAAAAnwFgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T20:53:42.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T20:53:42.817Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "AdminProdutosController.cs",
               "DocumentMoniker": "D:\\LojaSeuManuel\\ProdutosAPI\\Admin\\AdminProdutosController.cs",
               "RelativeDocumentMoniker": "ProdutosAPI\\Admin\\AdminProdutosController.cs",
@@ -234,12 +260,11 @@
               "RelativeToolTip": "ProdutosAPI\\Admin\\AdminProdutosController.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T20:32:15.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T20:32:15.895Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\LojaSeuManuel\\ProdutosAPI\\Program.cs",
               "RelativeDocumentMoniker": "ProdutosAPI\\Program.cs",
@@ -247,25 +272,23 @@
               "RelativeToolTip": "ProdutosAPI\\Program.cs",
               "ViewState": "AgIAAD8AAAAAAAAAAAAAAEgAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T20:28:27.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T20:28:27.913Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AdminPedidosController.cs",
               "DocumentMoniker": "D:\\LojaSeuManuel\\ProdutosAPI\\Admin\\AdminPedidosController.cs",
               "RelativeDocumentMoniker": "ProdutosAPI\\Admin\\AdminPedidosController.cs",
               "ToolTip": "D:\\LojaSeuManuel\\ProdutosAPI\\Admin\\AdminPedidosController.cs",
               "RelativeToolTip": "ProdutosAPI\\Admin\\AdminPedidosController.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAmwEAAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAmwDwAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T20:22:33.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T20:22:33.349Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Pedido.cs",
               "DocumentMoniker": "D:\\LojaSeuManuel\\ProdutosAPI\\Models\\Pedido.cs",
               "RelativeDocumentMoniker": "ProdutosAPI\\Models\\Pedido.cs",
@@ -273,12 +296,11 @@
               "RelativeToolTip": "ProdutosAPI\\Models\\Pedido.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAwwBoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T20:18:07.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T20:18:07.439Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "PedidosController.cs",
               "DocumentMoniker": "D:\\LojaSeuManuel\\ProdutosAPI\\Controllers\\PedidosController.cs",
               "RelativeDocumentMoniker": "ProdutosAPI\\Controllers\\PedidosController.cs",
@@ -286,12 +308,11 @@
               "RelativeToolTip": "ProdutosAPI\\Controllers\\PedidosController.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAA3wFoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T20:02:28.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T20:02:28.303Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "IPedidoRepository.cs",
               "DocumentMoniker": "D:\\LojaSeuManuel\\ProdutosAPI\\Repositories\\Interfaces\\IPedidoRepository.cs",
               "RelativeDocumentMoniker": "ProdutosAPI\\Repositories\\Interfaces\\IPedidoRepository.cs",
@@ -299,12 +320,11 @@
               "RelativeToolTip": "ProdutosAPI\\Repositories\\Interfaces\\IPedidoRepository.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAxwAoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T18:52:44.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T18:52:44.853Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "PedidoRepository.cs",
               "DocumentMoniker": "D:\\LojaSeuManuel\\ProdutosAPI\\Repositories\\PedidoRepository.cs",
               "RelativeDocumentMoniker": "ProdutosAPI\\Repositories\\PedidoRepository.cs",
@@ -312,12 +332,11 @@
               "RelativeToolTip": "ProdutosAPI\\Repositories\\PedidoRepository.cs",
               "ViewState": "AgIAAGEAAAAAAAAAAAAQwGcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T18:51:05.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T18:51:05.928Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "D:\\LojaSeuManuel\\ProdutosAPI\\Repositories\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "ProdutosAPI\\Repositories\\UnitOfWork.cs",
@@ -325,12 +344,11 @@
               "RelativeToolTip": "ProdutosAPI\\Repositories\\UnitOfWork.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAowCQAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T18:48:39.214Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T18:48:39.214Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "PedidoDetalheDTO.cs",
               "DocumentMoniker": "D:\\LojaSeuManuel\\ProdutosAPI\\DTOs\\PedidosDTO\\PedidoDetalheDTO.cs",
               "RelativeDocumentMoniker": "ProdutosAPI\\DTOs\\PedidosDTO\\PedidoDetalheDTO.cs",
@@ -338,12 +356,11 @@
               "RelativeToolTip": "ProdutosAPI\\DTOs\\PedidosDTO\\PedidoDetalheDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T18:38:04.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T18:38:04.314Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "CaixaResponseDTO.cs",
               "DocumentMoniker": "D:\\LojaSeuManuel\\ProdutosAPI\\DTOs\\CaixaResponseDTO.cs",
               "RelativeDocumentMoniker": "ProdutosAPI\\DTOs\\CaixaResponseDTO.cs",
@@ -351,12 +368,11 @@
               "RelativeToolTip": "ProdutosAPI\\DTOs\\CaixaResponseDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T18:37:22.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T18:37:22.05Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "D:\\LojaSeuManuel\\ProdutosAPI\\DTOs\\Mappings\\MappingProfile.cs",
               "RelativeDocumentMoniker": "ProdutosAPI\\DTOs\\Mappings\\MappingProfile.cs",
@@ -364,12 +380,11 @@
               "RelativeToolTip": "ProdutosAPI\\DTOs\\Mappings\\MappingProfile.cs",
               "ViewState": "AgIAAEEAAAAAAAAAAAAAwFgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T00:11:04.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T00:11:04.133Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Produto.cs",
               "DocumentMoniker": "D:\\LojaSeuManuel\\ProdutosAPI\\Models\\Produto.cs",
               "RelativeDocumentMoniker": "ProdutosAPI\\Models\\Produto.cs",
@@ -377,8 +392,7 @@
               "RelativeToolTip": "ProdutosAPI\\Models\\Produto.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAA9wAoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T23:04:42.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T23:04:42.215Z"
             }
           ]
         }
